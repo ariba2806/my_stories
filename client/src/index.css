@@ -1,0 +1,12 @@
+
+body {
+    background-image: url("http://il2.picdn.net/shutterstock/videos/21933226/thumb/1.jpg");
+    background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+* {
+    /* font-family: 'Noto Sans JP' !important; */
+    font-family: 'Heebo', sans-serif !important;
+}
